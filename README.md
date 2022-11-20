@@ -1,7 +1,7 @@
 # Instructions
 
 
-## Anaconda
+## Anaconda App and Pingouin library
 Before starting the analysis, install Anaconda Navigator (download from https://www.anaconda.com/products/distribution)
 
 
@@ -25,11 +25,15 @@ Wait until the next message apear
 
 ![AnaDo](https://user-images.githubusercontent.com/32276202/202900111-4d67213b-09d7-4280-b02a-c26d6b59bc19.png)
 
-Close the Anaconda Promt 
+Close the Anaconda Prompt 
 
-## Code
+## Analysis Code
 
 Then to download the code from Github copy and paste the next link in your browser: https://github.com/carlostoca/Data-Analysis
+
+- Click where it says "Code"
+* A window is going to pop up
++ Select "Download ZIP"
 
 ![JupyDow](https://user-images.githubusercontent.com/32276202/202901109-494cd65d-6449-4077-9c61-abf85dd6bee4.png)
 
@@ -49,6 +53,4 @@ Select the Code file to open it (2)
 
 ![JupyOpe](https://user-images.githubusercontent.com/32276202/202902341-fd6eb4de-e11b-4252-adc2-d6a71c4e0cf5.png)
 
-
-
-
+### Ready
