@@ -3,21 +3,25 @@
 Before starting the analysis, install Anaconda Navigator (download from https://www.anaconda.com/products/distribution)
 
 
-After the installation, before launching the Ananconda App, install the libraries Pingouin and Seaborn.
+After the installation, before launching the Ananconda App, install the Pingouin library.
 
-Instructions to install the libraries:
+Instructions to install the library:
 
-Open Anaconda Promt, then write the following command: 
-conda install -c conda-forge pingouin
-press Enter
+- Open Anaconda Promt, then write the following command: conda install -c conda-forge pingouin
++ press Enter
+
+
 ![AnaComma](https://user-images.githubusercontent.com/32276202/202887533-e9e4e22b-1afc-4647-ad56-b37b8892b3d9.png)
 
-Afer calling the librety the next mesaage will appear:
-TEXTO !!!!!!!!!!!!!!!!!!!!!!!!!!!!! E IMAGEN
+Afer calling the librety the next mesaage will appear: Proceed ([y]/n)? 
 
-type "y" then press Enter
+- type "y" then press Enter
 
-OTROS!!!!!!!!!!!!!!!!!!!!!!! IGUAL !!!!!!!!!!!!!!!!!!!!!!!
+![AnaCommy](https://user-images.githubusercontent.com/32276202/202899825-7b3c308a-4ab4-45a8-bd89-8204131b5b65.png)
+
+Wait until the next message apear
+
+![AnaDo](https://user-images.githubusercontent.com/32276202/202900111-4d67213b-09d7-4280-b02a-c26d6b59bc19.png)
 
 Close the Anaconda Promt
 
