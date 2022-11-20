@@ -53,4 +53,4 @@ Select the Code file to open it (2)
 
 ![JupyOpe](https://user-images.githubusercontent.com/32276202/202902341-fd6eb4de-e11b-4252-adc2-d6a71c4e0cf5.png)
 
-### Ready
+### The code will display in another tab
