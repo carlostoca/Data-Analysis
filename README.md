@@ -25,6 +25,12 @@ Wait until the next message apear
 
 Close the Anaconda Promt
 
+Then to download the code from Github copy and paste the next link in your browser: https://github.com/carlostoca/Data-Analysis
+
+![JupyDow](https://user-images.githubusercontent.com/32276202/202901109-494cd65d-6449-4077-9c61-abf85dd6bee4.png)
+
+
+
 Open Anacanda Navigator App
 Then lunch the Jupyter Notebook App
 ![AnaLaun](https://user-images.githubusercontent.com/32276202/202889087-dad20d1c-7116-4ac2-9ebc-839b8c53cbdb.png)
